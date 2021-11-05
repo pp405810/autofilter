@@ -1,5 +1,6 @@
 {
     "name": "Media Search bot",
+    "logo": "https://telegra.ph/file/1ad2f2951d5ddef4630fe.jpg",
     "description": "When you going to send file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
